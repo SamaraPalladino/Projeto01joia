@@ -396,3 +396,13 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+```bash
+bashCopy code
+node_modules/
+.env
+.DS_Store
+.next/
+build/
+dist/
+```
